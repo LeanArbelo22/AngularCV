@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+html, body{
+    background-color: #F9FF9B;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+/* Helvetica, Arial, sans-serif; */
+/* Century Gothic, CenturyGothic, AppleGothic, sans-serif; */
+}
+section{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15rem;
+    padding: 20px;
+}
